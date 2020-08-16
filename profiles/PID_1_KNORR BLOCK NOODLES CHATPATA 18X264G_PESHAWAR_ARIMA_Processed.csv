@@ -1,0 +1,2 @@
+VariableName,Median,Unique_values,Mean,Minimum,Maximum,Quantile_25,Quantile_75,Std_Dev,Null_Count,Date,Time,ProcessID,Data_Stage,Region,SKU
+tons,1.474,0,1.4678918918918922,0.462,2.758,1.018,1.905,0.5765644795676361,0,2020-08-11,19:21:59.322974,1,Processed,PESHAWAR,KNORR BLOCK NOODLES CHATPATA 18X264G
