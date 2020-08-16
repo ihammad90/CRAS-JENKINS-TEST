@@ -1,0 +1,6 @@
+ParameterID,Agorithms,Parameter 1,Parameter 2,Parameter 3,Parameter 4,Parameter 5,Parameter 6,Parameter 7,Parameter 8,Parameter 9,Parameter 10,Parameter 11,Parameter 12,Parameter 13,Parameter 14,Parameter 15
+1,Arima,FALSE,,,,,,,,,,,,,,
+2,Lasso,100000,0.001,,,,,,,,,,,,,
+3,RandomForest,100,,,,,,,,,,,,,,
+4,GradientBoosting,100,,,,,,,,,,,,,,
+5,Prophet,FALSE,20,auto,,,,,,,,,,,,
